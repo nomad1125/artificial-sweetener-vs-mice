@@ -1,5 +1,5 @@
 # artificial-sweetener-vs-mice
-hw assignment comp 2710
+hw assignment 1 comp 2710
 
 Goals:
 To find some place where you can develop, compile, and run C++ code.
